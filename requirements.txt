@@ -1,0 +1,7 @@
+uvicorn[standard]>=0.29.0
+openai 
+pydantic 
+httpx 
+python-dotenv 
+fastapi 
+tiktoken
